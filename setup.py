@@ -12,7 +12,7 @@ setuptools.setup(
     description="An environment package for meta reinforcement learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/YangRui2015/Meta-Envs",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
