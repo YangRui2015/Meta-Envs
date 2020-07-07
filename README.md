@@ -14,7 +14,7 @@ cd Meta_Envs
 pip install -e .
 ```
 
-# Usage
+## Usage
 ```
 import numpy as np
 import meta_envs
@@ -28,5 +28,5 @@ env.step(np.random.random(shape))
 ```
 
 
-# Update
+## Update
 * 2020.7.7 first update 
