@@ -9,8 +9,8 @@ This is an environment package forked from https://github.com/katerakelly/oyster
 This package uses Mujoco for simulation, so you install mujoco200 and mujoco_py 2.0 (we didn't test with mujoco151). In addition, if you want to use rand params envs, you need to add mujoco131 in the same folder of mujoco200 (./mujoco/mujoco131).
 
 ```
-git clone 
-cd meta_envs
+git clone https://github.com/YangRui2015/Meta-Envs.git
+cd Meta_Envs
 pip install -e .
 ```
 
